@@ -1,0 +1,131 @@
+.navbar-brand {
+  font-color: white;
+  text-align: center;
+}
+.navbar-text .ml-auto{
+	font-color: white;
+	font-size: 100px;
+}
+.h1{
+	text-align: center;
+	font-size: 100px;
+	padding-bottom: 20px;
+	margin: 50px;
+	color: white;
+}
+h3{
+	 text-align: center;
+}
+
+
+body {
+ background-image: url("https://images.unsplash.com/photo-1569470451072-68314f596aec?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1189&q=80");
+     background-size: cover;
+    background-position: center;
+}
+	
+hr{
+    width: 1000px;
+    border-top: 1px solid #f8f8f8;
+    border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+
+.fa fa-cog fa-spin fa-3x fa-fw{
+	align-content: center;
+}
+.btn .btn-success{
+	text-align: center;
+	align-self: center;
+	align-items: center;
+}
+.wrp {
+    text-align: center;
+    background-color: green;
+    width: 1000px;
+    height: 50px;
+    align-self: center;
+    margin: auto;
+
+}
+.john{
+	align-self: center;
+	background-color: white;
+	width: 200px;
+	height: 50px;
+	text-align: center;
+	align-items: center;
+	margin: auto;
+}
+.john1{
+		align-self: center;
+	background-color: white;
+	width: 400px;
+	height: 50px;
+	text-align: center;
+	align-items: center;
+	margin: auto;
+}
+}
+
+
+/*#Footer {
+	padding: 75px 0 50px;
+	background-color: #000;
+}
+#Footer .footer-text p {
+	font: 400 16px/155% 'Open Sans', sans-serif;
+	color: #fff;
+	margin: 0 0 30px;
+}
+#Footer .footer-text p.designed {
+	font-size: 12px;
+	text-align: left;
+	margin-bottom: 0;
+}
+#Footer .footer-text p.designed a {
+	color: #19af83;
+}
+#Footer .footer-text p.designed a:hover {
+	color: #29e4ad;
+}
+
+
+#Footer .footer-text .email-box input:focus {
+	border-bottom: 1px solid #19af83;
+	transition: all 0.25s ease 0s;
+}
+#Footer .footer-text .email-box input.submit {
+	background: url(../images/email-box-arrow.png) no-repeat 0 5px;
+	padding: 0px 4px;
+	border: 0;
+	position: absolute;
+	top: 2px;
+	right: 3px;
+	cursor: pointer;
+	width: 20px;
+}
+#Footer .footer-text .social-share ul li {
+	display: inline-block;
+	list-style: none;
+	margin-right: 15px;
+}
+#Footer .footer-text .social-share ul li a, .social-share ul li a i {
+	color: #fff;
+	font-size: 18px;
+}
+.social-share ul li a:hover i {
+	color: #19af83;
+} 
+#Footer .footer-text .copy-right p {
+	margin: 0;
+	font: 400 16px/115% 'Open Sans', sans-serif;
+	color: #fff;
+	text-align: left;
+}
+
+#Gain .container .row .col-xs-12 .col-sm-12 .col-md-6 .col-lg-3 .col-xl-3{
+ background-image: url("https://images.unsplash.com/photo-1534809027769-b00d750a6bac?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80");
+}*/
+#kol{
+	color: black;
+}
